@@ -1,0 +1,7 @@
+C:\Users\Kenneth\source\repos\TAR解碼\TAR解碼\bin\Debug\TAR解碼.exe.config
+C:\Users\Kenneth\source\repos\TAR解碼\TAR解碼\bin\Debug\TAR解碼.exe
+C:\Users\Kenneth\source\repos\TAR解碼\TAR解碼\bin\Debug\TAR解碼.pdb
+C:\Users\Kenneth\source\repos\TAR解碼\TAR解碼\obj\Debug\TAR解碼.csprojAssemblyReference.cache
+C:\Users\Kenneth\source\repos\TAR解碼\TAR解碼\obj\Debug\TAR解碼.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\TAR解碼\TAR解碼\obj\Debug\TAR解碼.exe
+C:\Users\Kenneth\source\repos\TAR解碼\TAR解碼\obj\Debug\TAR解碼.pdb
