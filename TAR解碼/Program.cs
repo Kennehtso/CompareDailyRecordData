@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -180,7 +180,7 @@ namespace TAR解碼
                         if (todayADRecord != null)
                         {
                             var differences = "";
-                            if (dailyChangeRecord.SalaryCode != todayADRecord.SalaryCode.TrimStart('0'))
+                            if (dailyChangeRecord.SalaryCode != todayADRecord.SalaryCode)
                                 differences += string.Format("AllSap薪呈為:{0};", todayADRecord.SalaryCode);
                             if (dailyChangeRecord.Title != todayADRecord.Title)
                                 differences += string.Format("AllSap職稱為:{0};", todayADRecord.Title);
